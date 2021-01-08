@@ -1,10 +1,10 @@
-# cisco-home-assignment
+# Project-web
 web app that integrate with Reddit's Api.
 The project built on Angular + nodejs Express 
 
 
 ## Running locally
-- git clone https://github.com/MayTetro/Project-web.git
+- git clone https://github.com/MayTetro/cisco-home-assignment.git
 
 ### Running the server locally
 - npm install
@@ -30,6 +30,6 @@ articles from Reddit's api and return them to the client side
 where they are displayed.
 
 ### heroKu
-- https://cisco-home-assignment.herokuapp.com/
+- https://newappmyapp.herokuapp.com/
 
 

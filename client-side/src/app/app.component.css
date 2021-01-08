@@ -1,0 +1,35 @@
+.aaa {
+  align-content: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.form {
+  position: relative;
+  padding: 15px 0 20px;
+  width: 70%;
+}
+
+
+.input {
+  font-family: inherit;
+  width: 70%;
+  border: 0;
+  border-bottom: 2px solid gray;
+  outline: 0;
+  font-size: 15px;
+  color: black;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+
+label {
+  position: absolute;
+  top: 0;
+  transition: 0.2s;
+  font-size: 1rem;
+  color: black;
+}

@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "types": []
+  },
+  "files": [
+    "src/main.ts",
+    "src/polyfills.ts"
+  ],
+  "include": [
+    "src/**/*.d.ts"
+  ]
+}
+
+//http://www.eliadyahalom.co.il/  http://www.picanvas.co.il/wideFormat_index.asp  https://www.photo-art.co.il/photosc/landscape

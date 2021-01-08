@@ -1,0 +1,17 @@
+span {
+  font-family: monospace;
+  font-size: 15px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: aquamarine;
+  width: 90%;
+  margin: 10px auto;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  word-wrap: break-word;
+}
