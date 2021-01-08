@@ -8,5 +8,6 @@
   </div>
   <span *ngIf="this.searchedValue">Top articles for {{this.searchedValue}} Are:</span>
   <app-article-list [articles]="articles"></app-article-list>
+  <span *ngIf="!noArticlesToShow">No articles to show</span>
 </div>
 
