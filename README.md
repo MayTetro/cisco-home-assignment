@@ -22,12 +22,12 @@ The project built on Angular + nodejs Express
 - npm run start-dev
 
 ## How the application works
-The application ask for subreddit name from the user,
-once the user search for the subreddit client side perform http 
-request with the subreddit name as parameter.
-the server side get the requested subreddit, retrieve the top
-articles from Reddit's api and return them to the client side
-where they are displayed.
+The application asks for a subreddit name from the user.
+Once the user searches for the subreddit, the client side performs a http 
+request with the subreddit name as a parameter.
+The server side gets the requested subreddit, retrieves the top
+articles from Reddit's api and returns them to the client side
+where they are being displayed.
 
 ### heroKu
 - https://newappmyapp.herokuapp.com/
