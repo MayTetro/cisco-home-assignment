@@ -30,6 +30,5 @@ articles from Reddit's api and returns them to the client side
 where they are being displayed.
 
 ### heroKu
-- https://newappmyapp.herokuapp.com/
-
+https://cisco-home-assignment.herokuapp.com/
 
